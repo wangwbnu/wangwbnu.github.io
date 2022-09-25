@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 This is Wang's personal website 
-(under construction... probably not for academic use...)
+under construction... probably not for academic use... you can have a look at Personal like page for now :)
