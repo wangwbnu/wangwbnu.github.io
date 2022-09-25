@@ -1,5 +1,5 @@
 ---
-title: "旅行者"
+title: "1.Voyager/旅行者"
 excerpt: "我不是在旅行的路上，就是在为旅行攒钱...<br/><img src='/images/PL/flagmap.png'>"
 collection: portfolio
 ---
