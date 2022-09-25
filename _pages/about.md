@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Wang's personal website 
+This is Wang's personal website;
 under construction... probably not for academic use... you can have a look at Personal like page for now :)
