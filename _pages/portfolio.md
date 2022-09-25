@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Personal life/个人生活"
 permalink: /portfolio/
 author_profile: true
 ---
