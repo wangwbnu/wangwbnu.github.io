@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications/发表"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,7 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+<!--
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
