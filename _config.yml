@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Wang Wang (王旺)"
   avatar           : "profile.png"
-  bio              : "PhD student, <br/>; Lab Astroparticle and Cosmology, <br/>; Université Paris Cité, CNRS"
+  bio              : "PhD student, <br/> Lab Astroparticle and Cosmology, <br/> Université Paris Cité, CNRS"
   location         : "Paris"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "wang@apc.in2p3.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "wangwbnu"
   foursquare       :
   github           : "wangwbnu"
   google_plus      :
