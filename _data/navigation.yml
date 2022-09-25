@@ -2,23 +2,15 @@
 main:
   - title: "Publications/发表"
     url: /publications/
-
-#  - title: "Talks"
-#    url: /talks/    
+    
 
 #  - title: "Teaching"
 #    url: /teaching/    
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
     
   - title: "CV/简历"
     url: /cv/
     
   - title: "Personal life/个人生活"
     url: /portfolio/   
-    
-#  - title: "Guide"
-#    url: /markdown/
 
 
