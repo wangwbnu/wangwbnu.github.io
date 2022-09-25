@@ -9,8 +9,7 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Personal life/个人生活"
-    url: /portfolio/
+
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
@@ -20,3 +19,5 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+  - title: "Personal life/个人生活"
+    url: /portfolio/
